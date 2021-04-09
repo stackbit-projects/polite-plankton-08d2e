@@ -155,9 +155,7 @@ sections:
     title: Ready to get started?
     content: |
       Start preparing today!
-    actions:
-      - url: /thank-you
-        style: primary
+    actions: []
     actions_width: fourty
     align: center
     padding_top: large
