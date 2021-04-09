@@ -17,7 +17,7 @@ sections:
     background_image: images/magenta-pine.jpg
     background_image_position: center top
     background_image_size: auto
-    background_image_opacity: 60
+    background_image_opacity: 100
     subtitle: Preparing you for the 11+ exams!
   - type: grid_section
     title: Featured On
