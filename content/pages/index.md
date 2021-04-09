@@ -7,7 +7,7 @@ sections:
       - label: Try now
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/sabri-tuzcu-wunVFNvqhfE-unsplash.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
