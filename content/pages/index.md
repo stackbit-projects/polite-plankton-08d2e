@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Get into your dream school!
     actions:
-      - label: Try for free
+      - label: Try now
         url: /pricing
         style: primary
     image: images/hero.svg
