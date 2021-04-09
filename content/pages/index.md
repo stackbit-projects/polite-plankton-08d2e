@@ -5,7 +5,7 @@ sections:
     title: Get into your dream school!
     actions:
       - label: Try now
-        url: /pricing
+        url: /pric
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
