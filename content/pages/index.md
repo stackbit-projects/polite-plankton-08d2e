@@ -156,7 +156,7 @@ sections:
     content: |
       Start preparing today!
     actions:
-      - label: Try for free
+      - label: Learn more about us
         url: /thank-you
         style: primary
     actions_width: fourty
