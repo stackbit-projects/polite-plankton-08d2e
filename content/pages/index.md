@@ -156,8 +156,7 @@ sections:
     content: |
       Start preparing today!
     actions:
-      - label: Learn more about us
-        url: /thank-you
+      - url: /thank-you
         style: primary
     actions_width: fourty
     align: center
