@@ -7,7 +7,6 @@ sections:
       - label: Try now
         url: /pricing
         style: primary
-    image: images/dose-media-bU6JyhSI6zo-unsplash.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
