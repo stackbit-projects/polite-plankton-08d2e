@@ -104,19 +104,7 @@ sections:
     background_color: none
   - type: grid_section
     title: How it works
-    grid_items:
-      - title: Activity streak
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        image: images/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
+    grid_items: []
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
